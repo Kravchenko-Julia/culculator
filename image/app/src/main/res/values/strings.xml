@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">image</string>
+    <string name="load_image">Закрузка изоброжение</string>
+</resources>
